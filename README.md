@@ -29,9 +29,9 @@ git clone https://github.com/Pvalexx/ecommerce-cafe-do-lucas.git
 
 
 ### 2. Importe o Banco de Dados
-	Acesse o phpMyAdmin na sua hospedagem ou ambiente local.
-	Crie um banco de dados com o nome desejado (ex.: cafe_do_lucas).
-	Importe o arquivo banco-de-dados/banco-cafe-do-lucas.sql.
+Acesse o phpMyAdmin na sua hospedagem ou ambiente local.
+Crie um banco de dados com o nome desejado (ex.: cafe_do_lucas).
+Importe o arquivo banco-de-dados/banco-cafe-do-lucas.sql.
 
 ### 3. Configure o wp-config.php
 Edite o arquivo wp-config.php no WordPress para apontar para o banco criado. Atualize:

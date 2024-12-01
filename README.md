@@ -1,7 +1,7 @@
 # 🛒 E-commerce para o Café do Lucas ☕
 
 Descrição: 
-Este projeto é um e-commerce desenvolvido para o trabalho acadêmico, com o objetivo de criar uma loja virtual funcional.
+Este projeto é um e-commerce desenvolvido para o trabalho acadêmico chamado Projeto Integrador Transdisciplinar em Ciencia da Computação PIT II, com o objetivo de criar uma loja virtual funcional.
  Utilizamos WordPress como CMS, WooCommerce para o gerenciamento de produtos e pedidos,
  MySQL como banco de dados e o PagSeguro para integração de pagamentos. Hospedado na plataforma gratuita InfinityFree.
 

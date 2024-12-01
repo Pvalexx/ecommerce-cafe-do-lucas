@@ -3,7 +3,7 @@
 Descrição: 
 Este projeto é um e-commerce desenvolvido para o trabalho acadêmico chamado Projeto Integrador Transdisciplinar em Ciencia da Computação PIT II, com o objetivo de criar uma loja virtual funcional.
  Utilizamos WordPress como CMS, WooCommerce para o gerenciamento de produtos e pedidos,
- MySQL como banco de dados e o PagSeguro para integração de pagamentos. Hospedado na plataforma gratuita InfinityFree.
+ MySQL como banco de dados e o PagSeguro e Paypal para integração de pagamentos. Hospedado na plataforma gratuita InfinityFree.
 
 ---
 
@@ -15,7 +15,7 @@ Este projeto é um e-commerce desenvolvido para o trabalho acadêmico chamado Pr
 - HTML5/CSS3: Tecnologias para estrutura e estilização das páginas.
 - JavaScript: Para interatividade no frontend.
 - MySQL: Banco de dados para armazenar informações do site.
-- PayPal: Integração de pagamentos.
+- PayPal e PagSeguro: Integração de pagamentos.
 - InfinityFree: Plataforma de hospedagem gratuita.
 
 ---
@@ -47,4 +47,4 @@ Copie a pasta do tema personalizado do repositório (tema-wordpress/) para essa 
 
 ## 5. Ative o Tema e Plugins no WordPress
 No painel do WordPress, ative o tema que você adicionou.
-Instale e configure o WooCommerce e o PayPal.
+Instale e configure o WooCommerce e o PayPal e PagSeguro.

@@ -47,4 +47,4 @@ Copie a pasta do tema personalizado do repositório (tema-wordpress/) para essa 
 
 ## 5. Ative o Tema e Plugins no WordPress
 No painel do WordPress, ative o tema que você adicionou.
-Instale e configure o WooCommerce e o PagSeguro.
+Instale e configure o WooCommerce e o PayPal.

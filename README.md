@@ -15,7 +15,7 @@ Este projeto é um e-commerce desenvolvido para o trabalho acadêmico chamado Pr
 - HTML5/CSS3: Tecnologias para estrutura e estilização das páginas.
 - JavaScript: Para interatividade no frontend.
 - MySQL: Banco de dados para armazenar informações do site.
-- PagSeguro: Integração de pagamentos.
+- PayPal: Integração de pagamentos.
 - InfinityFree: Plataforma de hospedagem gratuita.
 
 ---
